@@ -26,8 +26,12 @@ To develop a Python-based solution that fetches weather data from the OpenWeathe
 
 # C] Technologies Used:
 i] Programming Language: Python For data fetching, processing, and visualization.
+
 ii] APIs: OpenWeatherMap API To retrieve weather forecast data in JSON format.
+
 iii] Libraries: Requests To send HTTP GET requests to the API, Pandas For data manipulation and analysis, Matplotlib For creating static, interactive, and animated visualizations, Seaborn For high-level data visualization with aesthetically pleasing graphics.
+
 iv] Data Handling: JSON parsing for extracting specific weather details, pandas.DataFrame for organizing data into a tabular format.
+
 v] Visualization Tools: Line plots for visualizing trends over time, Subplots for displaying multiple metrics in a single figure.
 
